@@ -25,13 +25,17 @@ Semestre: 2026/1
 
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
-│   └── 📄 wireframes.md  
 │   └── 📄 TAP (formato WIKI)  
 │   └── 📄 LER.docx    
 
+## Protótipos
+
+- [Alta Fidelidade](https://www.figma.com/design/CTON2fxDnMeJPF0fjwFi8e/Espectra?node-id=0-1&t=hKfZN2zbY4YBlNqP-1)
+- [Baixa Fidelidade](https://excalidraw.com/#room=872c0ab87beb08ba133e,BwW_T6Ccu9EpDwK7-olWQA)
+
 ## Contribuições
 
-Use mensagens claras, e descritivas em português, utilizando "Convetional Commits"!
+Use mensagens claras, e descritivas em português, utilizando "Convetional Commits" referenciando a hash da issue ao final de cada commit!
 
 Commits pequenos e frequentes.
 
