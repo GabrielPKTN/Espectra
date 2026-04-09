@@ -23,15 +23,22 @@ Semestre: 2026/1
 
 ### Documentação
 
-├── 📂 docs              
+├── 📂 doc
+│   └── 📂 prototipo
+│   │   └── 📂 prototipo-alta-fidelidade
+│   │   │   └── 📂 desktop
+│   │   │   │   └── 📷 1440px.png
+│   │   │   │   └── 📷 768px.png
+│   │   │   │   └── 📷 720px.png
+│   │   │   │   └── 📷 420px.png
+│   │   │   └── 📂 mobile
+│   │   │       └── 📷 celular.png
+│   │   │       └── 📷 tablet.png
+│   │   └── 📄 prototipo-baixa-fidelidade    
 │   └── 📄 proposta.pptx    
-│   └── 📄 TAP (formato WIKI)  
-│   └── 📄 LER.docx    
-
-## Protótipos
-
-- [Alta Fidelidade](https://www.figma.com/design/CTON2fxDnMeJPF0fjwFi8e/Espectra?node-id=0-1&t=hKfZN2zbY4YBlNqP-1)
-- [Baixa Fidelidade](https://excalidraw.com/#room=872c0ab87beb08ba133e,BwW_T6Ccu9EpDwK7-olWQA)
+│   └── 📄 - [TAP (formato WIKI)](https://github.com/GabrielPKTN/Espectra/wiki/TAP-%E2%80%90-Espectra)  
+│   └── 📄 requisitos-funcionais.docx
+│   └── 📄 requisitos-nao-funcionais.docx    
 
 ## Contribuições
 
