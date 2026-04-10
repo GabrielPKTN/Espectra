@@ -23,22 +23,25 @@ Semestre: 2026/1
 
 ### Documentação
 
-├── 📂 doc
-│   └── 📂 prototipo
-│   │   └── 📂 prototipo-alta-fidelidade
-│   │   │   └── 📂 desktop
-│   │   │   │   └── 📷 1440px.png
-│   │   │   │   └── 📷 768px.png
-│   │   │   │   └── 📷 720px.png
-│   │   │   │   └── 📷 420px.png
-│   │   │   └── 📂 mobile
-│   │   │       └── 📷 celular.png
-│   │   │       └── 📷 tablet.png
-│   │   └── 📄 prototipo-baixa-fidelidade    
-│   └── 📄 proposta.pptx    
-│   └── 📄 - [TAP (formato WIKI)](https://github.com/GabrielPKTN/Espectra/wiki/TAP-%E2%80%90-Espectra)  
-│   └── 📄 requisitos-funcionais.docx
-│   └── 📄 requisitos-nao-funcionais.docx    
+├── 📂 doc <br>
+│ㅤㅤ└── 📂 prototipo <br>
+│ㅤㅤ│ㅤㅤ└── 📂 prototipo-alta-fidelidade <br>
+│ㅤㅤ│ㅤㅤ│ㅤㅤㅤ└── 📂 desktop <br>
+│ㅤㅤ│ㅤㅤ│ㅤㅤㅤ│ㅤㅤ└── 📷 1440px.png <br>
+│ㅤㅤ│ㅤㅤ│ㅤㅤㅤ│ㅤㅤ└── 📷 768px.png <br>
+│ㅤㅤ│ㅤㅤ│ㅤㅤㅤ│ㅤㅤ└── 📷 720px.png <br>
+│ㅤㅤ│ㅤㅤ│ㅤㅤㅤ│ㅤㅤ└── 📷 420px.png <br>
+│ㅤㅤ│ㅤㅤ│ㅤㅤㅤ│ㅤㅤ<br>
+│ㅤㅤ│ㅤㅤ│ㅤㅤㅤ└── 📂 mobile <br>
+│ㅤㅤ│ㅤㅤ│ㅤㅤㅤㅤㅤㅤ└── 📷 celular.png <br>
+│ㅤㅤ│ㅤㅤ│ㅤㅤㅤㅤㅤㅤ└── 📷 tablet.png <br>
+│ㅤㅤ│ㅤㅤ└── 📷 tablet.png <br>
+│ㅤㅤ│ㅤㅤㅤ<br>
+│ㅤㅤ└── 📄 proposta.pptx    <br>
+│ㅤㅤ└── 📄 - [TAP (formato WIKI)](https://github.com/GabrielPKTN/Espectra/wiki/TAP-%E2%80%90-Espectra)  <br>
+│ㅤㅤ└── 📄 requisitos-funcionais.docx  <br>
+│ㅤㅤ└── 📄 requisitos-nao-funcionais.docx    <br>
+│ㅤㅤ└── 📄 requisitos-do-projeto.docx <br>
 
 ## Contribuições
 
