@@ -1,7 +1,6 @@
 
 ![Logo](./img/logo.png)
 
-
 # Espectra
 
 Este repositório é responsável por controlar o versionamento da aplicação Espectra
@@ -9,6 +8,10 @@ Este repositório é responsável por controlar o versionamento da aplicação E
 ## Sobre o Espectra
 
 O Espectra foi desenvolvido a partir da necessidade de uma ferramenta de apoio para psicopedagogos gerenciarem atividades, e habilidades de pessoas com o espectro autista (TEA). 
+
+## Fluxo de telas da aplicação
+
+- [Fluxo de telas - Espectra](https://youtu.be/S9izysnZVWc)
 
 ### Disciplina: Trabalho de Conclusão de Curso
 Semestre: 2026/1
@@ -24,6 +27,10 @@ Semestre: 2026/1
 ### Documentação
 
 ├── 📂 doc <br>
+│ㅤㅤ└── 📂 diagramas-bd <br>
+│ㅤㅤ│ㅤㅤ└── 📄 conceitual-espectra.brm3 <br>
+│ㅤㅤ│ㅤㅤ└── 📄 logico-espectra.brm3 <br>
+│ㅤㅤ│ㅤㅤ<br>
 │ㅤㅤ└── 📂 prototipo <br>
 │ㅤㅤ│ㅤㅤ└── 📂 prototipo-alta-fidelidade <br>
 │ㅤㅤ│ㅤㅤ│ㅤㅤㅤ└── 📂 desktop <br>
@@ -35,6 +42,7 @@ Semestre: 2026/1
 │ㅤㅤ│ㅤㅤ│ㅤㅤㅤ└── 📂 mobile <br>
 │ㅤㅤ│ㅤㅤ│ㅤㅤㅤㅤㅤㅤ└── 📷 celular.png <br>
 │ㅤㅤ│ㅤㅤ│ㅤㅤㅤㅤㅤㅤ└── 📷 tablet.png <br>
+│ㅤㅤ│ㅤㅤ│<br>
 │ㅤㅤ│ㅤㅤ└── 📷 tablet.png <br>
 │ㅤㅤ│ㅤㅤㅤ<br>
 │ㅤㅤ└── 📄 proposta.pptx    <br>
